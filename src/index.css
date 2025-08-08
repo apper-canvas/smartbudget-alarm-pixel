@@ -54,9 +54,8 @@
   .sidebar-link {
     @apply flex items-center space-x-3 px-4 py-3 rounded-lg text-gray-600 hover:bg-gradient-to-r hover:from-primary/10 hover:to-secondary/10 hover:text-primary transition-all duration-200 relative;
   }
-  
-  .sidebar-link.active {
-    @apply bg-gradient-to-r from-primary/15 to-secondary/15 text-primary border-r-2 border-primary;
+.sidebar-link.active {
+    @apply bg-gradient-to-r from-primary/20 to-secondary/20 text-primary border-r-2 border-primary;
   }
 }
 
