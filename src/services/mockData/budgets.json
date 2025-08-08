@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "category": "Groceries",
+    "amount": 400,
+    "month": "2024-01",
+    "spent": 350
+  },
+  {
+    "Id": 2,
+    "category": "Transportation",
+    "amount": 200,
+    "month": "2024-01",
+    "spent": 145
+  },
+  {
+    "Id": 3,
+    "category": "Entertainment",
+    "amount": 150,
+    "month": "2024-01",
+    "spent": 75
+  },
+  {
+    "Id": 4,
+    "category": "Food & Dining",
+    "amount": 300,
+    "month": "2024-01",
+    "spent": 280
+  },
+  {
+    "Id": 5,
+    "category": "Shopping",
+    "amount": 250,
+    "month": "2024-01",
+    "spent": 200
+  },
+  {
+    "Id": 6,
+    "category": "Utilities",
+    "amount": 150,
+    "month": "2024-01",
+    "spent": 80
+  }
+]
